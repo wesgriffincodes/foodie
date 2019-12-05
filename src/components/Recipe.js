@@ -2,7 +2,7 @@ import React, { } from 'react';
 import PropTypes from 'prop-types';
 
 const Recipe = ({ title, calories, image, ingredients }) => {
-c
+
 
   return (
     <div>
